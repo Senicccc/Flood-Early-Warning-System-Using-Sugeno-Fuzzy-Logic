@@ -24,7 +24,7 @@ FloodWarningSystem/
 
 ### Schematic
 
-![Schematic](Flood Early Warning System Using Sugeno Fuzzy Logic/Images/schematic.jpg)
+![Schematic](flood-early-warning-system-using-sugeno-fuzzy-logic/images/simulation.png)
 
 ### Simulation
 
