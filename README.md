@@ -7,7 +7,7 @@ A simple Arduino-based prototype designed to provide early warnings for potentia
 ## 📁 Project Structure
 
 ```
-FloodWarningSystem/
+Flood Early Warning System Using Sugeno Fuzzy Logic/
 ├── firmware/              # Arduino code
 │   └── flood_warning.ino  # Main sketch
 ├── pcb/                   # PCB layout
