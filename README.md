@@ -24,11 +24,11 @@ FloodWarningSystem/
 
 ### Schematic
 
-![Schematic](images/schematic.jpg)
+![Schematic](flood-early-warning-system-using-sugeno-fuzzy-logic/images/schematic.jpg)
 
 ### Simulation
 
-![Simulation](images/simulation.png)
+![Simulation](flood-early-warning-system-using-sugeno-fuzzy-logic/images/simulation.png)
 
 ---
 
